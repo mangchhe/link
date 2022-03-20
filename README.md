@@ -4,7 +4,8 @@
 
 - [Java](https://github.com/mangchhe/java-study)
 - [Spring](https://github.com/mangchhe/spring-study)
-    - [CRUD 예제](https://github.com/mangchhe/spring-tutorial)
+    - [CRUD 예제](https://github.com/mangchhe/spring-crud)
+    - [소셜 로그인, 게시판 구현](https://github.com/mangchhe/spring-tutorial)
     - [Kotlin 예제](https://github.com/mangchhe/spring-kotlin-tutorial)
     - [Object Mapper](https://github.com/mangchhe/dto-tutorial)
     - [JWT](https://github.com/mangchhe/jwt-tutorial)
@@ -21,6 +22,7 @@
 
 - [알고리즘](https://github.com/mangchhe/algorithm)
 - [디자인패턴](https://github.com/mangchhe/design_patterns)
+- [백엔드 면접 예상 질문](https://github.com/mangchhe/backend-interview)
 
 # 프로젝트
 
@@ -31,4 +33,5 @@
 
 # 서적
 
-- [Clean Code](https://github.com/mangchhe/cleancode)
+- [Clean Code](https://github.com/BookBundle/book-cleancode)
+- [Effective Java 3/E](https://github.com/BookBundle/book-effective-java)
